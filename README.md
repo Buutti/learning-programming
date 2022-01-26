@@ -18,3 +18,8 @@ Materials to start learning programming
 
 [Which language to choose?](which_language.md)
 
+
+Licence
+=======
+All text is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
