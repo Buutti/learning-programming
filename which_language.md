@@ -168,11 +168,24 @@ has spread to plethora of different uses
 
 Usual usage
 -----------
+- web development (frontend and backend)
+
 Pros
 ----
+
+- the most used language, so there are many learning resources available
+- dynamically typed: good for starters
+
 Cons
 ----
+- due to backwards compatibility, there are obsolete ways to write JS that should be avoided
+- dynamically typed: bad for serious projects
+
 Recommended when
 ----------------
+- you want to do anything web, but aren't ready to jump into TypeScript yet
+
 Materials
 ---------
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [JS for C & Python programmers](https://www.wooji-juice.com/blog/javascript-article.html)
