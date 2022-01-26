@@ -69,16 +69,31 @@ Materials
 
 
 C#
-==
+===
+Microsofts response to Java. An Object oriented language used to make
+errorproof Entreprise applications. Is also used as a Scripting language
+in the most popular game engine "Unity".
+
 Usual usage
 -----------
-- Games (scripting Unity, XNA)
+- Games (Unity, Monogame)
 - Web applications
+- Windows desktop applications
 
 Pros
 ----
+- Clear and logical syntax that is a good starting point for most other common languages
+- Clear error messages that make it easy to find and see where you have made an error.
+- Slightly more difficult to write something that is a total mess
+- Easy to learn the basics of Object oriented programming
+
 Cons
 ----
+- You need to write more code than with some other languages which makes it slightly slower
+- Even though crossplatform solutions exist C# is still very much a windows language
+- C# is strongly Object oriented so you won't learn other types of programming as much.
+
+
 Recommended when
 ----------------
 Materials
