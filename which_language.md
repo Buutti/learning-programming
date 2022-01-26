@@ -70,8 +70,8 @@ Materials
 
 C#
 ===
-Microsofts response to Java. An Object oriented language used to make
-errorproof Entreprise applications. Is also used as a Scripting language
+Microsoft's response to Java. An Object oriented language used to make
+errorproof enterprise applications. Is also used as a Scripting language
 in the most popular game engine "Unity".
 
 Usual usage
@@ -90,8 +90,8 @@ Pros
 Cons
 ----
 - You need to write more code than with some other languages which makes it slightly slower
-- Even though crossplatform solutions exist C# is still very much a windows language
-- C# is strongly Object oriented so you won't learn other types of programming as much.
+- Even though cross-platform solutions exist C# is still very much a windows language
+- C# is strongly object oriented so you won't learn other types of programming as much.
 
 
 Recommended when
@@ -187,7 +187,6 @@ Usual usage
 
 Pros
 ----
-
 - The most used language, so there are many learning resources available
 - Dynamically typed: one less thing to worry about for starters
 
@@ -206,34 +205,33 @@ Materials
 - [JS for C & Python programmers](https://www.wooji-juice.com/blog/javascript-article.html)
 
 Lua
-==========
+===
 A light, somewhat verbose scripting language where indentation doesn't matter.
 Typically, the Lua virtual machine sits on top of a lower-level engine, providing an
 easy-to-use scripting interface.
 
 Usual usage
 -----------
-- video game scripting & modding
-- game development (Love2D, Pico-8, TIC-80)
+- Video game scripting & modding
+- Game development (Love2D, Pico-8, TIC-80)
   
 Pros
 ----
-
-- tiny & portable
-- short learning curve
-- fast for a scripting language
+- Tiny & portable
+- Short learning curve
+- Fast for a scripting language
 
 Cons
 ----
-- importing Lua packages can be cumbersome
-- the community is split between different Lua versions
-- some idiosyncratic nonstandard features
-- tiny size means there are not many features out the box
+- Importing Lua packages can be cumbersome
+- The community is split between different Lua versions
+- Some idiosyncratic nonstandard features
+- Tiny size means there are not many features out the box
 
 Recommended when
 ----------------
-- you want to add lightweight scripting on top of a video game engine
-- you want to quickly piece together a tiny game or prototype
+- You want to add lightweight scripting on top of a video game engine
+- You want to quickly piece together a tiny game or prototype
 
 Materials
 ---------
