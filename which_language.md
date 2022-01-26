@@ -190,3 +190,38 @@ Materials
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [JS for C & Python programmers](https://www.wooji-juice.com/blog/javascript-article.html)
 
+Lua
+==========
+A light, somewhat verbose scripting language where indentation doesn't matter.
+Typically, the Lua virtual machine sits on top of a lower-level engine, providing an
+easy-to-use scripting interface.
+
+Usual usage
+-----------
+- video game scripting & modding
+- game development (Love2D, Pico-8, TIC-80)
+  
+Pros
+----
+
+- tiny & portable
+- short learning curve
+- fast for a scripting language
+
+Cons
+----
+- importing Lua packages can be cumbersome
+- the community is split between different Lua versions
+- some idiosyncratic nonstandard features
+- tiny size means there are not many features out the box
+
+Recommended when
+----------------
+- you want to add lightweight scripting on top of a video game engine
+- you want to quickly piece together a tiny game or prototype
+
+Materials
+---------
+- [Learn Lua in 15 minutes](http://tylerneylon.com/a/learn-lua/)
+- [How to LÖVE](https://sheepolution.com/learn/book/contents)
+  - learning Lua for making games with the Love2D framework
