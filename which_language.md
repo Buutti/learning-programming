@@ -192,7 +192,9 @@ Materials
 
 Lua
 ==========
-A light, somewhat verbose Python-like language where indentation doesn't matter and almost everything is a table. Also, indexing starts from one. Typically, the Lua VM sits on top of a lower-level engine, providing an easy-to-use scripting interface.
+A light, somewhat verbose scripting language where indentation doesn't matter.
+Typically, the Lua virtual machine sits on top of a lower-level engine, providing an
+easy-to-use scripting interface.
 
 Usual usage
 -----------
@@ -204,24 +206,14 @@ Pros
 
 - tiny & portable
 - short learning curve
-- fast, especially when using the JIT compiler
-- powerful table system supports multiple key & value types
-  - ...and can be further extended with metatables
-- functions:
-  - inline functions don't have a confusing lambda syntax (looking at you, Python)
-  - can be tail called, recursed & passed around easily
-  - multi-value return & variable number of function parameters
-- coroutines!
+- fast for a scripting language
 
 Cons
 ----
-- the Lua package ecosystem is a mess
+- importing Lua packages can be cumbersome
 - the community is split between different Lua versions
-- pattern-matching that is almost regex, but not quite
-- tiny size has downsides (depends on who you ask):
-  - for a language obsessed with tables, you'd think there were more table-specific features built in (like printing a table)
-  - no object oriented features out of the box
-  - limited unicode support
+- some idiosyncratic nonstandard features
+- tiny size means there are not many features out the box
 
 Recommended when
 ----------------
