@@ -168,28 +168,29 @@ has spread to plethora of different uses
 
 Usual usage
 -----------
-- web development (frontend and backend)
+- Web development (frontend and backend)
 
 Pros
 ----
 
-- the most used language, so there are many learning resources available
-- dynamically typed: good for starters
+- The most used language, so there are many learning resources available
+- Dynamically typed: one less thing to worry about for starters
 
 Cons
 ----
-- due to backwards compatibility, there are obsolete ways to write JS that should be avoided
-- dynamically typed: bad for serious projects
+- Due to backwards compatibility, there are obsolete ways to write JS that should be avoided
+- Dynamically typed: bad for serious projects
 
 Recommended when
 ----------------
-- you want to do anything web, but aren't ready to jump into TypeScript yet
+- You want to do anything web, but aren't ready to jump into TypeScript yet
 
 Materials
 ---------
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [JS for C & Python programmers](https://www.wooji-juice.com/blog/javascript-article.html)
 
+<<<<<<< HEAD
 Lua
 ==========
 A light, somewhat verbose Python-like language where indentation doesn't matter and almost everything is a table. Also, indexing starts from one. Typically, the Lua VM sits on top of a lower-level engine, providing an easy-to-use scripting interface.
@@ -233,3 +234,5 @@ Materials
 - [Learn Lua in 15 minutes](http://tylerneylon.com/a/learn-lua/)
 - [How to LÖVE](https://sheepolution.com/learn/book/contents)
   - learning Lua for making games with the Love2D framework
+=======
+>>>>>>> c283bb447b0cbf9cd6fbc19d500243f1f4d93bf3
