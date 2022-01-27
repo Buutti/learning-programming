@@ -20,6 +20,12 @@ from different individuals.
 The short conclusion was "it depends" so I suggest checking
 out our [pros/cons list](which_language.md)
 
+Questions & Corrections
+-----------------------
+Questions should be directed to the
+[discussion page](https://github.com/ronchaine/learning-programming/discussions),
+if you think we are outright wrong on some issue, please
+[open an issue](https://github.com/ronchaine/learning-programming/issues).
 
 About materials linked
 ----------------------
