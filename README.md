@@ -25,7 +25,7 @@ About materials linked
 ----------------------
 We try to curate the material links, but as we are not familiar
 with every language under the sun, that is not perfect.  We also
-try to get people to check if the maetrials are of good quality.
+try to get people to check if the materials are of good quality.
 
 Free to file issues if you find some of the materials confusing,
 unhelpful or otherwise bad.
@@ -36,8 +36,8 @@ Materials for learning programming
 
 Starting from scratch
 ---------------------
-[Which language to choose?](which_language.md)
-[What do I need to start?](what_do_i_need.md)
+- [Which language to choose?](which_language.md)
+- [What do I need to start?](what_do_i_need.md)
 
 Licence
 =======
