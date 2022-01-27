@@ -178,34 +178,6 @@ Materials
 ---------
 
 
-Python
-======
-Quite simple language originally written with the explicit goal
-of teaching programming.  Used in plethora of things because of
-its apparent simplicity
-
-Usual usage
------------
-- Prototyping
-- Small scale projects
-- As an interface for AI libraries
-
-Pros
-----
-- Actually designed with the goal of being easy to teach/learn
-
-Cons
-----
-- Has more unique semantics, doesn't resemble other languages
-
-Recommended when
-----------------
-- You still can't decide after reading this page
-
-Materials
----------
-
-
 Java
 ====
 Usual usage
@@ -300,3 +272,33 @@ Materials
 - [Learn Lua in 15 minutes](http://tylerneylon.com/a/learn-lua/)
 - [How to LÖVE](https://sheepolution.com/learn/book/contents)
   - learning Lua for making games with the Love2D framework
+
+
+Python
+======
+Quite simple language originally written with the explicit goal
+of teaching programming.  Used in plethora of things because of
+its apparent simplicity
+
+Usual usage
+-----------
+- Prototyping
+- Small scale projects
+- As an interface for AI libraries
+
+Pros
+----
+- Actually designed with the goal of being easy to teach/learn
+
+Cons
+----
+- Has more unique semantics, doesn't resemble other languages
+
+Recommended when
+----------------
+- You still can't decide after reading this page
+
+Materials
+---------
+
+
