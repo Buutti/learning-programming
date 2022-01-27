@@ -277,12 +277,14 @@ Usual usage
   
 Pros
 ----
-- Tiny & portable
+- Tiny and portable
 - Short learning curve
 - Fast for a scripting language
 
 Cons
 ----
+- Unique syntax and semantics, doesn't resemble other languages
+- Does not follow any established standards by other languages
 - Importing Lua packages can be cumbersome
 - The community is split between different Lua versions
 - Some idiosyncratic nonstandard features
