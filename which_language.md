@@ -17,7 +17,7 @@ There are very few programmers who can only write in one
 programming language, and it's useful to know a few since
 they teach you different ways to approach same problems.
 
-The key takeawat from this page is
+The key takeaway from this page is
 
 **Don't stress too much about the choice, you can
 switch later if you think something else suits you better,
@@ -35,11 +35,14 @@ General things that should affect your choice of language
 ### What you want to be doing
 #### Learning about computers in general
 #### Building a project you have an idea for
+#### Small things vs. big things
+#### For yourself or for everyone?
 #### Landing a job
 
 ### Learning habits and goals
 #### Learn by doing vs. theory-first
-#### Fast vs. good
+#### Learn fast vs. learn well
+#### How much hand-holding you like
 
 ### Resources available
 #### Internet tutorials
