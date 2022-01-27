@@ -178,26 +178,42 @@ Materials
 
 Javascript
 ==========
-Originally created for interactive components for web pages,
-has spread to plethora of different uses
+Originally created for interactive components for web pages.
+Since then has spread to plethora of different uses like mobile
+development and desktop applications.
+
+Over time many different frameworks have been created for the
+language. This has led to an uncertainty of which one of these
+frameworks should one have the knowledge of.
+
+Nowadays, javascript web developers can also include web assembly
+in their projects if they need their applications to run faster and/or
+consume less memory.
 
 Usual usage
 -----------
 - Web development (frontend and backend)
+- Mobile development (React Native)
+- Desktop applications (Electron)
 
 Pros
 ----
 - The most used language, so there are many learning resources available
 - Dynamically typed: one less thing to worry about for starters
+- Easy and fast to show things on screen
+- Easy and fast to create interactive interfaces
 
 Cons
 ----
 - Due to backwards compatibility, there are obsolete ways to write JS that should be avoided
-- Dynamically typed: bad for serious projects
+- Too many web development frameworks of which most don't actually improve the language
+- Doesn't scale up well without WASM when a project requires a lot of computation power and/or memory
+- React Native and Electron do not have native WASM like support
 
 Recommended when
 ----------------
-- You want to do anything web, but aren't ready to jump into TypeScript yet
+- You want to do anything web
+- Quickly create interactive applications
 
 Materials
 ---------
